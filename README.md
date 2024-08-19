@@ -1,14 +1,12 @@
-## You have stumbled across the second worst Github profile 🥈
-<sub>Don't worry, your 🥇 is still safe</sub>
+## I was waiting for you🦉🧙‍♂️
 
 <table>
   <tr>
     <td>
-      <strong>A ver camaradas esto va a ser rápido:</strong>
+      <strong>Some things about me</strong>
       <p></p>
       <ul>
-        <li>I speak both Spanish and English equally bad.</li>
-        <li>I'm an Argentinian 🇦🇷 college student going through my last year of Information Systems Engineering at 
+        <li>I'm a college student from 🇦🇷 Argentina going through my last year of Information Systems Engineering at 
           <a href="https://utn.edu.ar/es/federacion-universitaria-tecnologica/feria-de-carreras/sistemas-de-informacion">UTN</a>.
         </li>
         <li>You can also reach me on</li>
@@ -41,9 +39,6 @@
         <img src="https://img.shields.io/badge/kubernetes-rebeccapurple?style=for-the-badge&logo=kubernetes"/>
         <img src="https://img.shields.io/badge/grafana-grey?style=for-the-badge&logo=grafana"/>
         </div>
-    </td>
-    <td>
-      <img src="https://i.imgur.com/4cCKweB.png"/>
     </td>
   </tr>
 </table>
